@@ -1,6 +1,6 @@
 # Isaac Love
 
-I build tools for organizations that can't afford to build them.
+I build tools for organizations that I believe in.
 
 Co-founder and operator of [Peanut Butter Sundays](https://peanutbuttersundayscom), a youth-led LA nonprofit. Incoming USC Computational Neuroscience student, currently on a gap year building civic technology.
 
